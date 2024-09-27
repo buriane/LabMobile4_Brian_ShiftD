@@ -1,16 +1,13 @@
-# latihanprak4
+# Tugas Praktikum 4 Pemrograman Mobile
 
-A new Flutter project.
+Nama: Brian Cahya Purnama
 
-## Getting Started
+NIM: H1D022009
 
-This project is a starting point for a Flutter application.
+Shift Lama: C
 
-A few resources to get you started if this is your first Flutter project:
+Shift Baru: D
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo Tampilan Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo GIF](demo.gif)
