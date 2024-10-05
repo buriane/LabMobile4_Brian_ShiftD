@@ -10,17 +10,17 @@ Shift Baru: D
 
 # List of Contents
 
-- Tugas Praktikum 4
-  - Demo Tampilan
-- Tugas Praktikum 5
+- [Tugas Praktikum 4](#tugas-praktikum-4-pemrograman-mobile)
+  - [Demo Tampilan](#demo-tampilan-aplikasi)
+- [Tugas Praktikum 5](#tugas-praktikum-5-pemrograman-mobile-lanjutan)
 
-  - Proses Registrasi
-  - Proses Login
-  - Proses Tampil Data
-  - Create Produk
-  - Read Produk
-  - Update Produk
-  - Delete Produk 
+  - [Proses Registrasi](#proses-registrasi)
+  - [Proses Login](#proses-login)
+  - [Proses Tampil Data](#proses-tampil-data)
+  - [Create Produk](#create-menambah-produk)
+  - [Read Produk](#read-melihat-produk)
+  - [Update Produk](#update-mengedit-produk)
+  - [Delete Produk](#delete-menghapus-produk)
 
 # Tugas Praktikum 4 Pemrograman Mobile
 
